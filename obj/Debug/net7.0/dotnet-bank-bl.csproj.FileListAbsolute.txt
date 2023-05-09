@@ -1,0 +1,15 @@
+/Users/blaurince/code-c10/dotnet-bank-bl/bin/Debug/net7.0/dotnet-bank-bl
+/Users/blaurince/code-c10/dotnet-bank-bl/bin/Debug/net7.0/dotnet-bank-bl.deps.json
+/Users/blaurince/code-c10/dotnet-bank-bl/bin/Debug/net7.0/dotnet-bank-bl.runtimeconfig.json
+/Users/blaurince/code-c10/dotnet-bank-bl/bin/Debug/net7.0/dotnet-bank-bl.dll
+/Users/blaurince/code-c10/dotnet-bank-bl/bin/Debug/net7.0/dotnet-bank-bl.pdb
+/Users/blaurince/code-c10/dotnet-bank-bl/obj/Debug/net7.0/dotnet-bank-bl.csproj.AssemblyReference.cache
+/Users/blaurince/code-c10/dotnet-bank-bl/obj/Debug/net7.0/dotnet-bank-bl.GeneratedMSBuildEditorConfig.editorconfig
+/Users/blaurince/code-c10/dotnet-bank-bl/obj/Debug/net7.0/dotnet-bank-bl.AssemblyInfoInputs.cache
+/Users/blaurince/code-c10/dotnet-bank-bl/obj/Debug/net7.0/dotnet-bank-bl.AssemblyInfo.cs
+/Users/blaurince/code-c10/dotnet-bank-bl/obj/Debug/net7.0/dotnet-bank-bl.csproj.CoreCompileInputs.cache
+/Users/blaurince/code-c10/dotnet-bank-bl/obj/Debug/net7.0/dotnet-bank-bl.dll
+/Users/blaurince/code-c10/dotnet-bank-bl/obj/Debug/net7.0/refint/dotnet-bank-bl.dll
+/Users/blaurince/code-c10/dotnet-bank-bl/obj/Debug/net7.0/dotnet-bank-bl.pdb
+/Users/blaurince/code-c10/dotnet-bank-bl/obj/Debug/net7.0/dotnet-bank-bl.genruntimeconfig.cache
+/Users/blaurince/code-c10/dotnet-bank-bl/obj/Debug/net7.0/ref/dotnet-bank-bl.dll
